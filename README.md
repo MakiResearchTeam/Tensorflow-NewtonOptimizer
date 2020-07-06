@@ -1,5 +1,5 @@
 # Tensorflow-NewtonOptimizer
-This repository contains an implementation of the Newton optimization wrapped into a TensorFlow optimizer.
+This repository contains an implementation of the Newton optimization wrapped using Tensorflow.
 The optimizer does not have all the arguments that other TensorFlow optimizers do (gating, distributed training), so it may be needed to modify the code a bit.
 
 ### Use it as follows:
